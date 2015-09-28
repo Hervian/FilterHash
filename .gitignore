@@ -1,0 +1,10 @@
+
+target/classes/.netbeans_automatic_build
+
+*.class
+
+target/surefire-reports/com.hervian.filterhash.FilterHashTest.txt
+
+target/test-classes/.netbeans_automatic_build
+
+target/surefire-reports/TEST-com.hervian.filterhash.FilterHashTest.xml
